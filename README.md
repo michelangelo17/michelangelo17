@@ -2,7 +2,7 @@
 
 ## I'm a full stack software developer!
 
-### Vist my [website](michelangelo.codes) to learn more about me and some of my projects!
+### Vist my [website](www.michelangelo.codes) to learn more about me and some of my projects!
 <--
 Here are some ideas to get you started:
 
