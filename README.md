@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hi! I'm Michelangelo!
 
-<!--
-**michelangelo17/michelangelo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a full stack software developer!
 
+### Vist my [website](michelangelo.codes) to learn more about me and some of my projects!
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
