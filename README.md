@@ -1,7 +1,5 @@
 # Hi! I'm Michelangelo!
 
-## I'm a full stack software developer!
+## I'm a Solutions Architect who enjoys Web Development in my free time.
 
-### Vist my [website](https://www.michelangelo.codes) to learn more about me and some of my projects!
-
-### Or reach out to me on [Twitter](https://www.twitter.com/devmichelangelo) or [LinkedIn](https://www.linkedin.com/in/michelangelo-markus)
+### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michelangelo-markus), include a message though, I don't add everyone.
